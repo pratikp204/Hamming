@@ -1,6 +1,6 @@
 '''
 
-    Author : HackNet & NetDrag
+    Author : HackNet & pratikp204
 
 '''
 from math import log, floor
